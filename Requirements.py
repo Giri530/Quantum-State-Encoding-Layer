@@ -1,0 +1,9 @@
+qiskit 
+qiskit-aer 
+qiskit-ibm-runtime 
+datasets
+transformers
+torch 
+numpy
+matplotlib 
+pylatexenc
