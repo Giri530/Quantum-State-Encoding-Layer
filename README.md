@@ -348,7 +348,7 @@ The paper presents the complete 5-component QLPA framework:
 4. 🔄 **QCM** - Quantum Contextual Memory (theoretical)
 5. 🔄 **QTG** - Quantum Token Generation (theoretical)
 
-Read the full paper: [`research_paper.pdf`](research_paper.pdf)
+Read the full paper: https://drive.google.com/file/d/127imyfNTwNnnOHXXXqWgnHG7qAF4mJoY/view?usp=sharing 
 
 ## 🎯 Current Implementation Status
 
@@ -405,10 +405,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{girinath2025qlpa,
   title={Quantum Language Processing Architecture (QLPA): A Theoretical Framework for Quantum-Native Natural Language Processing},
-  author={Girinath, V},
-  journal={arXiv preprint},
-  year={2025},
-  month={October}
+  author={Girinath, V}
 }
 ```
 
@@ -427,7 +424,7 @@ MIT License - see `LICENSE` file for details
 **Girinath V**  
 Independent Researcher  
 📧 girinathv48@gmail.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+🔗 GitHub: https://github.com/Giri530
 
 ---
 
