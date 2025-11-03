@@ -38,8 +38,8 @@ While the full QLPA framework encompasses five interconnected quantum components
 
 ```bash
 # Clone the repository
-git clone https://github.com/Giri530/QLPA.git
-cd QLPA
+https://github.com/Giri530/Quantum-State-Encoding-Layer.git
+cd Quantum-State-Encoding-Layer
 
 # Install dependencies
 pip install -r requirements.txt
